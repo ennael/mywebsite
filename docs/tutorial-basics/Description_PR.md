@@ -28,6 +28,6 @@ description
 10 - créer la release à partir du tag : release notes attachées
 11 - en local, tirer ou récupérer pour disposer du tag
 
-![Tutoriel Basic](/img/Capture_tutoriel.png)
+![Tutoriel Basic](/img/Capture_tutoriel_basic.png)
 
 
