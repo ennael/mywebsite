@@ -1,5 +1,4 @@
-# Website Labo
-
+<<<<< # Website mywebsite>>>>>>> main
 This nice website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
