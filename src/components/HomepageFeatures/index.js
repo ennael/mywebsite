@@ -33,6 +33,15 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'A versionned web site',
+    Svg: require('@site/static/img/git.svg').default,
+    description: (
+      <>
+        Use Git and Github to version your web site and make maintenance easier.
+      </>
+    ),
+  },
 ];
 
 function Feature({Svg, title, description}) {
