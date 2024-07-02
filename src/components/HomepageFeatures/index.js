@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Content and Form',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Use React to generate a site',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
