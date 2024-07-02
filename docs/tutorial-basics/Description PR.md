@@ -1,4 +1,4 @@
-## - Développement (brache de travail => QA)
+# - Développement (brache de travail => QA)
 
 1 - dans VScode : créer une branche de travail depuis QA (attention au nommage)
 2 - publier la branche
