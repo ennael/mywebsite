@@ -16,7 +16,7 @@ description
 
 => A répéter pour chaque branche d'évolution
 
-## - Production (QA => main)
+## - Production (QA => main) 
 
 6 - sur Github : création Pull Request - attention à la branche cible (main)
 assignation : envoie notification
